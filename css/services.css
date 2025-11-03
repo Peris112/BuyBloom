@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+#heading1{
+    color: brown;
+}
+#heading2{
+    color: blue;
+}
+.paragraph{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-style: italic;
+}
+#vip{
+    background-color: greenyellow;
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#vip img{
+    margin-right: 30px;
+    border-radius: 250px;
+}
+#vip:hover{
+    background-color: gray;
+    color: cyan;
+}
+#free{
+    margin-left: 40px;
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+    background-color: greenyellow;
+    border-radius: 20px;
+}
+#free img{
+     margin-right: 30px;
+    border-radius: 300px;
+}

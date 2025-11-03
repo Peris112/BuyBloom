@@ -1,0 +1,9 @@
+#ass{
+    display: flex;
+}
+li{
+    font-size: 12px;
+}
+img{
+    width: 100px;
+}
